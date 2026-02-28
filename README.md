@@ -18,4 +18,4 @@ This project analyzes student academic records and predicts student performance 
 The project identifies important factors affecting student performance and predicts future academic results.
 
 ## Author
-Soumya Padhi
+Soumya Ranjan Padhi
